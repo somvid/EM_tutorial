@@ -1,5 +1,5 @@
 # EM_tutorial
-Dasom Kwon
+Dasom Kwon \n
 Encoding modeling tutorial for PECON lab
 
 La Tour, T. D., Eickenberg, M., Nunez-Elizalde, A. O., & Gallant, J. L. (2022). Feature-space selection with banded ridge regression. NeuroImage, 264, 119728.
